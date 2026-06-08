@@ -38,12 +38,19 @@
 사이트 주소 + /robots.txt
 
 네이버     https://www.naver.com/robots.txt
+
 구글       https://www.google.com/robots.txt
+
 다음       https://www.daum.net/robots.txt
+
 유튜브     https://www.youtube.com/robots.txt  *🔑api추천*
+
 위키백과   https://ko.wikipedia.org/robots.txt
+
 쿠팡       https://www.coupang.com/robots.txt
+
 멜론       https://www.melon.com/robots.txt
+
 인스타그램 https://www.instagram.com/robots.txt  * 🔑api추천*
 
 </aside>
